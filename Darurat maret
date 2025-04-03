@@ -3259,8 +3259,7 @@ http://212.102.60.231/HBO_FAMILY/index.m3u8
 
 -------------▶️DENS TV----------------
 *********** ▶️DENS TV**********
-#EXTINF:-1 tvg-id="PutraTalawi-s9m" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="▶️DENS TV",YT  PUTRA TALAWI
-https://youtube.com/@PutraTalawi-s9m
+
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch_hQLLUH6FRA-f05CTt3fkCvV9pUaPkSG6-iCXgE7RLHg.png" group-title="▶️DENS TV",RCTI +
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=http://www.rctiplus.com/
@@ -3543,8 +3542,6 @@ http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;userid
 ====================
 
 **********ENTERTAINMENT**********
-#EXTINF:-1 tvg-id="PutraTalawi-s9m" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="☑️ENTERTAINMENT",YT  PUTRA TALAWI
-https://youtube.com/@PutraTalawi-s9m
 
 #EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/HUySdt2SHXRaYy2IS3iaPuL9Knt1D45sqVGG8mls7ah7FjngNJQcCXrKXmYlqwshbJHQBgcX2n1dYvgvbdFmYP01iN4B9VZKgKujr1k3fU1eJXcTnAB4gnrQH5dO7Ahw.png" group-title="☑️ENTERTAINMENT",ROCK ENTERTAINMENT
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
