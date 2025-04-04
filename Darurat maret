@@ -1492,8 +1492,6 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/05/Death.Whisp
 
 #EXTM3U
 
-                              ==========PLAYLIST IPTV PRO BY ZACK===========
-
 =================TV DIGITAL NASIONA=====================
 #EXTINF:-1 group-title="🔴TV DIGITAL NASIONAL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/RCTI.png", 04 RCTI 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -3047,10 +3045,10 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.ts
 
 -----+++++----------------
 
--------------▶️DENS TV----------------
-*********** ▶️DENS TV**********
+-------------🔴DENS TV----------------
+*********** 🔴DENS TV**********
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch_hQLLUH6FRA-f05CTt3fkCvV9pUaPkSG6-iCXgE7RLHg.png" group-title="▶️DENS TV",RCTI +
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch_hQLLUH6FRA-f05CTt3fkCvV9pUaPkSG6-iCXgE7RLHg.png" group-title="🔴DENS TV",RCTI +
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=http://www.rctiplus.com/
 http://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
