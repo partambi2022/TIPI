@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://triatmono.info/wp-content/uploads/2023/12/Red-Spark-vs-Pink-Spiders-banner-650x250.jpg" group-title="#.LIVE VOLLY REDSPARK",[17:00 WIB 08/04/2025] Red Sparks vs Pink Spider - KOVO V League Womens
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/fhsevbmnunr26yg17wj9j4kytled1knc20c3/playlist.m3u8?hdnts=st=1744105457~exp=1744137867~acl=*/fhsevbmnunr26yg17wj9j4kytled1knc20c3/*~hmac=346b5fb3ea85fa843b8db2d66c36e58e0e6e82363946f0e66d4f0e2c28f7db4f
 
 #EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/mT9KAUSfg2ZOmVeJspEtN8dY__0=/800x800/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5180485/original/054779000_1743765694-Piala_Asia_U-17_2025_-_Timnas_Indonesia_U-17_Vs_Yaman_U-17_copy.jpg" group-title="[ LIVE EVENT 🔴 ]",[22.00 WIB 07/04/25] Indonesia U17 vs Yaman U17 - AFC U17 Asian Cup
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11,20 +9,6 @@ https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/fhsevbmnunr26yg17wj
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="FERY IPTV",FeryIptv
-https://youtube.com/@feryiptv
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="REQ PLAYSLIST HUB/WA 085794973101",REQ PLAYLIST 15K/BLN HUB/WA 085794973101
-https://youtube.com/@feryiptv
-
-#EXTINF:-1 tvg-id="FeryIptv" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="CHANNEL | INDONESIA 🇮🇩",YT  FERY IPTV
-https://youtube.com/@feryiptv
-
-#EXTINF:-1 group-title="#0. LIVE EVENT" tvg-logo="https://www.pngall.com/wp-content/uploads/2017/05/Disclaimer-Symbol-PNG-Picture.png",#1. DISCLAIMER
-https://bit.ly/4fVtOcd
-
-#EXTINF:-1 group-title="#0. LIVE EVENT" tvg-logo="https://cdn.dribbble.com/users/1261007/screenshots/6557375/server.png",#1. PILIH SERVER LAIN JIKA SALAH SATU SERVER ER0R
-https://bit.ly/4fVtOcd
 
 ##http://sansat.cc:88/live/as5pBvP7yzMQV/NIsx3ELEMZNnPqA/95002.ts
 
@@ -265,8 +249,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch106.m3u8
 
-#EXTINF:-1 tvg-id="FeryIptv" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="NASIONAL",YT  FERY IPTV
-https://youtube.com/@feryiptv
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="Net.id" tvg-logo="https://i.ibb.co.com/4FZ  RKkn/net.png",NET TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -391,9 +373,6 @@ https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 *SPORT PREMIUM
-
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://cdn.dribbble.com/users/1261007/screenshots/6557375/server.png",#0. PILIH SERVER LAIN JIKA SALAH SATU SERVER ER0R
-https://bit.ly/4fVtOcd
 
 #EXTINF:-1 group-title="TRUEVISION NOW" tvg-id="SPORTS PREMIUM" tvg-name="TrueSPOTV HD 1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV HD 1
 https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truespotv1.m3u8
@@ -1029,8 +1008,7 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2p
 
 
 ********Arena Sports******
-#EXTINF:-1 tvg-id="FeryIptv" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="Arena Sports",YT  FERY IPTV
-https://youtube.com/@feryiptv
+
 #EXTINF:-1 tvg-name="arena sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0cbb5978c829aecd89ee19dffae6bb33.png" group-title="Arena Sports",Arena Sport 1
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/291133
 #EXTINF:-1 tvg-name="arena sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/28a5988d58871ad37addfecddb8781dd.png" group-title="Arena Sports",Arena Sport 1
