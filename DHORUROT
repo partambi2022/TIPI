@@ -16,15 +16,6 @@ https://edg00.smytdryt.live/1317505061_channel2/playlist.m3u8?match_id=12561482&
 #EXTVLCOPT:http-reconnect=true
 http://filex.tv:8080/aftab123/004090/302279
 
-#EXTINF:-1 tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="FERY IPTV",FeryIptv
-https://youtube.com/@feryiptv
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="REQ PLAYSLIST HUB/WA 085794973101",REQ PLAYLIST premiumHUB/WA 085794973101
-https://youtube.com/@feryiptv
-
-#EXTINF:-1 tvg-id="FeryIptv" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="CHANNEL | INDONESIA 🇮🇩",YT  FERY IPTV
-https://youtube.com/@feryiptv
-
 #EXTINF:-1 group-title="#0. LIVE EVENT" tvg-logo="https://www.pngall.com/wp-content/uploads/2017/05/Disclaimer-Symbol-PNG-Picture.png",#1. DISCLAIMER
 https://bit.ly/4fVtOcd
 
@@ -293,8 +284,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68570f25e2e017168410
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
-#EXTINF:-1 tvg-id="FeryIptv" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="#.NASIONAL",YT  FERY IPTV
-https://youtube.com/@feryiptv
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/indosiar.png" group-title="#.NASIONAL",INDOSIAR (D)
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -683,9 +672,6 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #KODIPROP:inputstream.adaptive.license_key=d2159ffe3be22ed4916a6abe4d58d265:3e4efcec08d5d5c18a403b7048a43638
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
-
-#EXTINF:-1 tvg-id="FeryIptv" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="#.SPORTS PREMIUM",YT  FERY IPTV
-https://youtube.com/@feryiptv
 
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="indosiar hd" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yen6THsAilPp4S7F4Cx1nZ2GRcRhyzLCZ9H61bsrsOEeaQ.png" group-title="#.SPORTS PREMIUM",Indosiar HD
