@@ -1373,20 +1373,18 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_primary.mp
 https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/9986/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9986/default_primary.mpd
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/9986/default_primary.mpd
+
 *********************************************************************************************************************************************
 
 
 
 
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyRQx-EEN1nhUha0lV18GoKjkjDPADIhdzjumUfCZB74EBrDMbDyTqSvzc&s=10" group-title="LIVE EVENT", Live Feed MotoGP Commentary
+#EXTINF:-1 tvg-name="GP COMENTARY"  tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyRQx-EEN1nhUha0lV18GoKjkjDPADIhdzjumUfCZB74EBrDMbDyTqSvzc&s=10" group-title="LIVE EVENT", Live Feed MotoGP Commentary
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #http://mag.greatott.me/play/live.php?mac=00:1A:79:34:2F:0A&stream=920215&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyRQx-EEN1nhUha0lV18GoKjkjDPADIhdzjumUfCZB74EBrDMbDyTqSvzc&s=10" group-title="LIVE EVENT", Live Feed MotoGP Ambient
+#EXTINF:-1 tvg-name="GP AMBIENT" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyRQx-EEN1nhUha0lV18GoKjkjDPADIhdzjumUfCZB74EBrDMbDyTqSvzc&s=10" group-title="LIVE EVENT", Live Feed MotoGP Ambient
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #http://mag.greatott.me/play/live.php?mac=00:1A:79:34:2F:0A&stream=920216&extension=ts
