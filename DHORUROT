@@ -1212,20 +1212,6 @@ https://live.mocdn.tv/out/v1/f652f46af7114b4a9be234af2050b095/manifest_L1.mpd
 https://live.mocdn.tv/out/v1/d89b099c972e4f47bf736e8a9b602f16/manifest_L1.mpd
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="Sportstars.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/652-LOGO-l.png" group-title="LIVE EVENT",Sportstars
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
@@ -1379,12 +1365,12 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/9986/default_primary.mp
 
 
 
-#EXTINF:-1 tvg-name="GP COMENTARY"  tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyRQx-EEN1nhUha0lV18GoKjkjDPADIhdzjumUfCZB74EBrDMbDyTqSvzc&s=10" group-title="LIVE EVENT", Live Feed MotoGP Commentary
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyRQx-EEN1nhUha0lV18GoKjkjDPADIhdzjumUfCZB74EBrDMbDyTqSvzc&s=10" group-title="LIVE EVENT", Live Feed MotoGP Commentary
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #http://mag.greatott.me/play/live.php?mac=00:1A:79:34:2F:0A&stream=920215&extension=ts
 
-#EXTINF:-1 tvg-name="GP AMBIENT" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyRQx-EEN1nhUha0lV18GoKjkjDPADIhdzjumUfCZB74EBrDMbDyTqSvzc&s=10" group-title="LIVE EVENT", Live Feed MotoGP Ambient
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyRQx-EEN1nhUha0lV18GoKjkjDPADIhdzjumUfCZB74EBrDMbDyTqSvzc&s=10" group-title="LIVE EVENT", Live Feed MotoGP Ambient
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #http://mag.greatott.me/play/live.php?mac=00:1A:79:34:2F:0A&stream=920216&extension=ts
