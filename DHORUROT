@@ -16,14 +16,6 @@ https://edg00.smytdryt.live/1317505061_channel2/playlist.m3u8?match_id=12561482&
 #EXTVLCOPT:http-reconnect=true
 http://filex.tv:8080/aftab123/004090/302279
 
-#EXTINF:-1 tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="FERY IPTV",FeryIptv
-https://youtube.com/@lga775iptv
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="REQ PLAYSLIST HUB/WA 085794973101",REQ PLAYLIST premiumHUB/WA 085794973101
-https://youtube.com/@lga775iptv
-
-#EXTINF:-1 tvg-id="FeryIptv" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="CHANNEL | INDONESIA 🇮🇩",YT  FERY IPTV
-https://youtube.com/@lga775iptv
 
 #EXTINF:-1 group-title="#0. LIVE EVENT" tvg-logo="https://www.pngall.com/wp-content/uploads/2017/05/Disclaimer-Symbol-PNG-Picture.png",#1. DISCLAIMER
 https://bit.ly/4fVtOcd
