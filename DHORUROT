@@ -1708,8 +1708,7 @@ https://legochannel-roku.amagi.tv/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8a
 
 **********MOVIES SERIES***********
-#EXTINF:-1 tvg-id="FeryIptv" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="MOVIES SERIES",YT  FERY IPTV
-https://youtube.com/@feryipt
+
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/croatia/axnadria.png" group-title="MOVIES SERIES", AXN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5d5297a84f8b2de977f07286345c591:bdb773d6d25303b75a396b8040cfaf8c
