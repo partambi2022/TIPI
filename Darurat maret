@@ -1,13 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-logo="https://iili.io/31b53AB.png" tvg-logo="https://iili.io/31b53AB.png" group-title="SUPPORT BRFID", BRFID YOUTUBE CHANNEL
-https://www.youtube.com/@BRFID_YT
-
-#EXTINF:-1 group-logo="https://iili.io/31b53AB.png" tvg-logo="https://iili.io/31b53AB.png" group-title="00.LIVE EVENT", SUPPORT ADMIN
-https://drive.google.com/uc?export=download&id=1VKzYZPuddVom07o9qxKp7s8RgHzDlC2C&usp
-#https://drive.google.com/uc?export=download&id=1gHID3FZ0rL_MwJJFVEwdJX13jfQ1sHa2&usp
-
-
 #EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://pbsi.id/wp-content/uploads/2025/05/1500x900px-1024x614.jpg", KAPAL API Indonesia Open 2025 05 Juni 2025 09:00 WIB C1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
