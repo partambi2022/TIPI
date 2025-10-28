@@ -2,7 +2,7 @@
 # ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
 # █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2025-10-23 11:09:00 GMT+7 "
+# (●) Last Update: 2025-10-27 11:09:00 GMT+7 "
 # (●) Service: Playlist25
 # (●) Total Channels: Null
 
@@ -22,7 +22,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 https://fta4-cdn-flr.visionplus.id/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 https://allcutv.rctiplus.id/rcti2023.m3u8
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Rcti/playlist.m3u8
+http://203.77.246.58:4500/udp/239.1.3.80:5000
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd
 
 #EXTM3U
 #EXT-X-VERSION:3
@@ -47,6 +48,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 https://fta4-cdn-flr.visionplus.id/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 https://allcutv.rctiplus.id/mnctv2023.m3u8
 https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
+http://203.77.246.58:4500/udp/239.1.3.78:5000
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -57,8 +60,10 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 https://allcutv.rctiplus.id/gtv2023.m3u8
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Gtv/playlist.m3u8
+http://203.77.246.58:4500/udp/239.1.3.68:5000
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Gtv/playlist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
@@ -69,7 +74,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/in
 https://fta2-cdn-flr.visionplus.id/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Inewstv/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Inewstv/playlist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -85,6 +90,8 @@ http://filex.tv:8080//live/Home329/Sohailhome/302274.ts
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 https://spacetv.my.id/index.m3u8?id=204&type=hls|user-agent=Dalvik/2.1.0
 https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
+http://203.77.246.58:4500/udp/239.1.1.108:5000
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/sctv.jpg" group-title="INDONESIA TV",SCTV DIGITAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -102,6 +109,7 @@ http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 https://spacetv.my.id/index.m3u8?id=205&type=hls|user-agent=Dalvik/2.1.0
 https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/indosiar.jpg" group-title="INDONESIA TV",INDOSIAR DIGITAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -109,6 +117,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
+http://203.77.246.58:4500/udp/239.1.1.110:5000
 #https://mimipipi22.github.io/logo/offline.m3u8
 http://103.66.62.83:8000/play/a069/index.m3u8
 http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
@@ -143,6 +152,8 @@ https://cdn10jtedge.indihometv.com/atm/DASH/transtv/manifest.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 https://livestream.transtv.co.id/stream/live/ttv.m3u8
+http://203.77.246.58:4500/udp/239.1.2.218:5000
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16e50b43a8fe4f9d8ed63a436161a28b:aa556111c986ba164a582811fb0d8c30
@@ -152,6 +163,7 @@ https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
@@ -162,6 +174,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 https://fta1-cdn-flr.visionplus.id/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd
+http://203.77.246.58:4500/udp/239.1.1.104:5000
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=87484c0b2a4c41b9b08249ef7817ad7f:ff4f3f232f747e5e7f616b4741fa5c32
@@ -173,6 +186,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/abf3e254818c4608aab8aa109a972203/index
 https://cdn10jtedge.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/rtv/manifest.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000057/1024.m3u8
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed72016590f2138d9fc10b807708b2
@@ -181,7 +195,8 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000057/1024.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
 https://atemeshield1-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Tvone/playlist.m3u8
+http://203.77.246.58:4500/udp/239.1.3.88:5000
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Tvone/playlist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -226,6 +241,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000041/1024.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/beritasatu.jpg" group-title="INDONESIA TV",BERITASATU
 https://cdn08jtedge.indihometv.com/dassdvr/134/idtv/manifest_w607931995_qRFZS.mpd?encp=&uid=&expp=
 https://cdn08jtedge.indihometv.com/dassdvr/134/idtv/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6859645ee4801965cd06bed442f/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=303eeb13aee345d3b04d6a407b4ff199:cdf924eb0f1b5017ac590f4f70f00a53
@@ -287,7 +303,7 @@ https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000080/1024.m3u8
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/JakTV/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/JakTV/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -296,6 +312,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
 
 #EXTINF:-1 tvg-id="Garuda TV.id" tvg-name="Garuda TV" tvg-logo="https://mimipipi22.github.io/logo/nasional/garudatv.jpg" group-title="INDONESIA TV",GARUDA TV
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6859645ee4801965cf102264bf3/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
@@ -365,48 +382,48 @@ https://op-group1-swiftservehd-1.dens.tv/h/h77/index2.m3u8?app_type=web&userid=l
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="MOVIES",HBO
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Hbo/playlist.m3u8
+http://203.77.246.58:4500/udp/239.1.3.84:5000
+http://51.89.166.17:3002/index.php?id=Hbo
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="HBO Hits.id" tvg-name="HBO Hits" tvg-logo="https://mimipipi22.github.io/logo/movies/hbohits.jpg" group-title="MOVIES",HBO HITS
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Hbohits/playlist.m3u8
+http://203.77.246.58:4500/udp/239.1.3.82:5000
+http://51.89.166.17:3002/index.php?id=Hbohitshd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="HBO Signature.id" tvg-name="HBOSignature1" tvg-logo="https://mimipipi22.github.io/logo/movies/hbosig.jpg" group-title="MOVIES",HBO SIGNATURE
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Hbosignature/playlist.m3u8
+http://203.77.246.58:4500/udp/239.1.3.74:5000
+http://51.89.166.17:3002/index.php?id=Hbosignature
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="HBO Family.id" tvg-name="HBO Family" tvg-logo="https://mimipipi22.github.io/logo/movies/hbofam.jpg" group-title="MOVIES",HBO FAMILY
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Hbofamily/playlist.m3u8
+http://203.77.246.58:4500/udp/239.1.3.76:5000
+http://51.89.166.17:3002/index.php?id=Hbofamily
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg" group-title="MOVIES",CINEMAX
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Cinemax/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=Cinemax
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="MOVIES",HBO
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Hbo/playlist.m3u8
+http://203.77.246.58:4500/udp/239.1.3.84:5000
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Hbo/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -510,6 +527,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000145/1024.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="GALAXYPremium.id" tvg-name="GALAXY Premium.id" tvg-logo="https://mimipipi22.github.io/logo/movies/galaxypremium.jpg" group-title="MOVIES",GALAXY PREMIUM
 https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
+http://51.89.166.17:3002/index.php?id=Weishimovie
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
@@ -533,7 +551,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/1024.m3u8
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTINF:-1 tvg-id="Cinema.World.id" tvg-name="Cinema World" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemaworld.jpg" group-title="MOVIES",CINEMAWORLD
 https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld_dash/manifest.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Cinemaworld/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Cinemaworld/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d
@@ -545,15 +563,15 @@ https://fta1-cdn-flr.visionplus.id/out/v1/010bb28c19b64975b318d3b00f58b18b/index
 https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 https://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&userid=lite&chname=ROCK_Action
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000120/1024.m3u8
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Rockaction/playlist.m3u8
+http://203.77.246.58:4500/udp/239.1.5.18:5000
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Rockaction/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6bbd293f9604131961bf10ddd1d6d31:ff08a6c78c1d1414a1cfae760ab623a9
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="CelestialMovies.id" tvg-name="Celestial Movies" tvg-logo="https://mimipipi22.github.io/logo/movies/celestialmovies.jpg" group-title="MOVIES",CELESTIAL MOVIES
 https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Celestial/playlist.m3u8
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Celestialindo/playlist.m3u8
+http://smt.1678520.xyz/smt3.2.1.php?id=Celestial
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -561,8 +579,10 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="tvNMovies.id" tvg-name="tvN Movies" tvg-logo="https://mimipipi22.github.io/logo/movies/tvnmovies.jpg" group-title="MOVIES",TVN MOVIES
 https://atemecdnbalancer-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Tvnmovie/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Tvnmovie/playlist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000142/1024.m3u8
+http://203.77.246.58:4500/udp/239.1.3.64:5000
+http://203.77.246.58:4500/udp/239.1.3.62:5000
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ffab3471a994535bdf7fc663792f08b:6e82876474df025c39ae804ba738ff17
@@ -573,6 +593,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/in
 https://fta2-cdn-flr.visionplus.id/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
+http://203.77.246.58:4500/udp/239.1.2.216:5000
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
@@ -580,7 +601,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
 #EXTINF:-1 tvg-id="HITSMovies.id" tvg-name="Hits Movies" tvg-logo="https://mimipipi22.github.io/logo/movies/hitsmovies.jpg" group-title="MOVIES",HITS MOVIES
 https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000139/1024.m3u8
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Hitsmovie/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Hitsmovie/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
@@ -599,6 +620,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&userid=li
 #EXTINF:-1 tvg-id="CCM.id" tvg-name="CCM" tvg-logo="https://mimipipi22.github.io/logo/movies/ccm.jpg" group-title="MOVIES",CCM
 https://fta1-cdn-flr.visionplus.id/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
+http://203.77.246.58:4500/udp/239.1.2.162:5000
+http://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=398ef14ec7014ad8ae75414a7efd2a0f:99a6225691aa669f0f22677b4536705e
@@ -646,19 +669,20 @@ http://iptvtree.net:8080/live/F28312/cc1dc138/165095.ts
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 
 #EXTINF:-1 tvg-id="CCTV6.cn" tvg-name="CCTV6" tvg-logo="https://mimipipi22.github.io/logo/international/cctv6.jpg" group-title="MOVIES",CCTV6
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/cctv6/playlist.m3u8
+http://api.kkitv.itv888.cn:8080/hls/tp9ajk4od5/index.m3u8
+http://51.89.166.17:3002/index.php?id=cctv6
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/Star Movies HD.png" group-title="MOVIES",STAR MOVIES
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/starmovies_raj/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=starmovies_raj
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/好萊塢電影台.png" group-title="MOVIES",HOLLYWOOD MOVIES
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/hollywoodmovies_twn/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=hollywoodmovies_twn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CATCHPLAY.png" group-title="MOVIES",CATCHPLAY
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/catchplay_twn/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=catchplay_twn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/東森洋片.png" group-title="MOVIES",ETTV WESTERN
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/ettvwestern/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=ettvwestern
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/東森電影.png" group-title="MOVIES",ETTV MOVIES
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/ettvmovie/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=ettvmovie
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/美亞電影.png" group-title="MOVIES",MEIYA MOVIES
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/meiyamovie_twn/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=meiyamovie_twn
 
 
 //========================================================================
@@ -672,16 +696,18 @@ http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/meiyamovie_tw
 https://atemecdnbalancer-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000119/1024.m3u8
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Axn/playlist.m3u8
+http://203.77.246.58:4500/udp/239.1.5.2:5000
+http://203.77.246.58:4500/udp/239.1.2.234:5000
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Axn/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="Warner.id" tvg-name="Warner" tvg-logo="https://mimipipi22.github.io/logo/entertainment/warner.jpg" group-title="ENTERTAINMENT",WARNER TV
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/WarnerTV/playlist.m3u8
+http://203.77.246.58:4500/udp/239.1.2.156:5000
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/WarnerTV/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a44cd51b688a458d97f534c286e58243:d62302543075463e472e23d7e947f10b
@@ -691,8 +717,9 @@ http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/WarnerTV/play
 https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Rockentertain/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Rockentertain/playlist.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&userid=lite&chname=ROCK_Entertainment_HD
+http://203.77.246.58:4500/udp/239.1.5.14:5000
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000110/1024.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -711,7 +738,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000114/1024.m3u8
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Hits/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Hits/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
@@ -730,14 +757,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/LifetimeHD/mpd/LifetimeHD.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/lifetime720/manifest_w10939036_qRFZS.mpd?encp=&uid=&expp=
 https://cdn08jtedge.indihometv.com/dassdvr/134/lifetime720/manifest.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000046/1024.m3u8
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Lifetime/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Lifetime/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=844db5a3a7ff4339b22f93811b004148:de946a52bd1df1d8a9e6510b1e0b3576
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="tvN.id" tvg-name="tvN" tvg-logo="https://mimipipi22.github.io/logo/entertainment/tvn.jpg" group-title="ENTERTAINMENT",TVN
 https://atemecdnbalancer-voe.sysln.id/live/eds/TvNHD/mpd/TvNHD.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/TVN/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/TVN/playlist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000141/1024.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -746,14 +773,16 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000141/1024.m3u8
 #EXTINF:-1 tvg-id="ONE.id" tvg-name="ONE" tvg-logo="https://mimipipi22.github.io/logo/entertainment/one.jpg" group-title="ENTERTAINMENT",ONE
 https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/One/playlist.m3u8
+http://203.77.246.58:4500/udp/239.1.5.10:5000
+http://203.77.246.58:4500/udp/239.1.2.236:5000
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/One/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
 #EXTINF:-1 tvg-id="Kplus.id" tvg-name="Kplus.id" tvg-logo="https://mimipipi22.github.io/logo/entertainment/kplus.jpg" group-title="ENTERTAINMENT",K-PLUS
 https://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8?app_type=web&userid=lite&chname=K-PLUS_HD
 https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Kplus/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Kplus/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
@@ -768,7 +797,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 #EXTINF:-1 tvg-id="AnimaxAsia.id" tvg-name="Animax HD" tvg-logo="https://mimipipi22.github.io/logo/entertainment/animax.jpg" group-title="ENTERTAINMENT",ANIMAX
 https://atemeshield1-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Animax/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Animax/playlist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -860,14 +889,12 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="Channel Seru" tvg-name="Channel Seru" tvg-logo="https://mimipipi22.github.io/logo/entertainment/channelseru.jpg" group-title="ENTERTAINMENT",CHANNEL SERU!
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c921bc43c00/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="!nsert" tvg-name="!nsert" tvg-logo="https://mimipipi22.github.io/logo/entertainment/insert.jpg" group-title="ENTERTAINMENT",!NSERT
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
@@ -897,17 +924,18 @@ https://cdn10jtedge.indihometv.com/atm/DASH/atv/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="Movies News" tvg-name="Movies News" tvg-logo="https://mimipipi22.github.io/logo/entertainment/movienews.jpg" group-title="ENTERTAINMENT",MOVIES NEWS
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc464d33c0b/manifest.mpd
 
 #EXTINF:-1 tvg-id="catchplay" tvg-name="Catch Play" tvg-logo="https://epg.112114.xyz/logo/CATCHPLAY.png" group-title="ENTERTAINMENT",CATCH PLAY TAIWAN
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/catchplay_twn/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/VIUTV6.png" group-title="ENTERTAINMENT",CVIU6 TAIWAN
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/viusix_twn/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/catchplay_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="ENTERTAINMENT",VIUTV TAIWAN
+http://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/VIUTV6.png" group-title="ENTERTAINMENT",VIUTV6 TAIWAN
+http://smt.1678520.xyz/smt3.2.1.php?id=viusix_twn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/TVB Entertainment.png" group-title="ENTERTAINMENT",TVB ENTERTAINMENT
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Tvbentertainment/playlist.m3u8
+http://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
 
 
 //========================================================================
@@ -965,7 +993,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000144/1024.m3u8
 #EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" tvg-logo="https://mimipipi22.github.io/logo/sports/spotv.jpg" group-title="SPORTS",SPOTV
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_spotv/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=go_spotv
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -975,7 +1003,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 #EXTINF:-1 tvg-id="SPOTV2.id" tvg-name="SPOTV2" tvg-logo="https://mimipipi22.github.io/logo/sports/spotv2.jpg" group-title="SPORTS",SPOTV 2
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_spotv2/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=go_spotv2
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1038,6 +1066,8 @@ http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1165890
 https://vidd.semar.my.id/vidreq.php?id=17938&type=dash
 https://bitter-boa-67.deno.dev/play.mpd?id=17938&type=dash
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
+http://203.77.246.58:4500/udp/239.1.2.240:5000
+http://203.77.246.58:4500/udp/239.1.2.242:5000
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions2.jpg" group-title="SPORTS",CHAMPIONS TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1045,6 +1075,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/vidreq.php?id=6686&type=drm
 https://vidd.semar.my.id/vidreq.php?id=6686&type=dash
+http://203.77.246.58:4500/udp/239.1.5.6:5000
 
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1064,6 +1095,7 @@ https://vidd.semar.my.id/vidreq.php?id=6786&type=dash
 https://bitter-boa-67.deno.dev/play.mpd?id=6786&type=dash
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash
 https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=dash
+http://203.77.246.58:4500/udp/239.1.5.8:5000
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1105,7 +1137,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/nbatv/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/nbatv/playlist.m3u8
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/nba.m3u8
 http://filex.tv:8080//live/Home329/Sohailhome/501267.ts
 
@@ -1132,7 +1164,7 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_assp5/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_assp5/playlist.m3u8
 https://mimipipi22.github.io/logo/offline.m3u8
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1147,49 +1179,42 @@ https://op-group1-swiftservehd-1.dens.tv/h/h71/wedo_sport.m3u8?app_type=web&user
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/golf+.jpg" group-title="SPORTS",GOLF+
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c68571b3914b01720e7ff4376d21/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/footballtv.jpg" group-title="SPORTS",FOOTBALL TV
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c68582449a2e0182597777ec21f3/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstv.jpg" group-title="SPORTS",SPORTS TV
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6857fe540a1018060afdef540bc/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/xtreamsports.jpg" group-title="SPORTS",XTREAM SPORTS
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a4379740b7/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/speedtv.jpg" group-title="SPORTS",SPEED TV
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6857fe540a1018060b2307340bd/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/fighttv.jpg" group-title="SPORTS",FIGHT TV PREMIUM
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c34340b6/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/psjtv.jpg" group-title="SPORTS",PSJ TV
 https://cdnjkt913.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd427f46ab/manifest.mpd
@@ -1216,6 +1241,7 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 https://atemeshield1-voe.sysln.id/live/eds/ArirangHD/mpd/ArirangHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/ArirangHD/mpd/ArirangHD.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/ARIRANG/manifest.mpd
+http://203.77.246.58:4500/udp/239.1.2.4:5000
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1223,7 +1249,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World (HD)" tvg-logo="https://mimipipi22.github.io/logo/international/kbsworld.jpg" group-title="WORLD TV",KBS WORLD
 https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mpd/KBSWorldHD.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/KBS/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/KBS/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
@@ -1245,6 +1271,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856df6711d016e111c8
 https://fta4-cdn-flr.visionplus.id/out/v1/85b02e02587747058c1940af6aa3d0fa/index.mpd
 https://cdn1.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+http://203.77.246.58:4500/udp/239.1.2.2:5000
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000040/1024.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1261,6 +1288,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000029/1024.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="CCTV4.id" tvg-name="CCTV4.id" tvg-logo="https://mimipipi22.github.io/logo/international/cctv4.jpg" group-title="WORLD TV",CCTV4
 https://atemecdnbalancer-voe.sysln.id/live/eds/CCTV4/mpd/CCTV4.mpd
+http://203.77.246.58:4500/udp/239.1.1.98:5000
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=04fb6c48c6b4498cb9d3b9ede0d48db7:94253cf1df2659c3ea253ba1091eca4d
@@ -1284,7 +1312,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000056/1024.m3u8
 #EXTINF:-1 tvg-id="Hunan TV" tvg-name="Hunan TV" tvg-logo="https://mimipipi22.github.io/logo/international/hunantv.jpg" group-title="WORLD TV",HUNAN TV
 https://atemeshield1-voe.sysln.id/live/eds/HunanTV/mpd/HunanTV.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/HunanTV/mpd/HunanTV.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/hunan_twn/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/hunan_twn/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3bd78e03448148aeaeebf394b3196bfd:fe09186f7f8a037caed34d684d429fb5
@@ -1293,7 +1321,7 @@ http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/hunan_twn/pla
 https://atemeshield1-voe.sysln.id/live/eds/JiangsuTV/mpd/JiangsuTV.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/JiangsuTV/mpd/JiangsuTV.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000052/1024.m3u8
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/jiangsu_twn/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/jiangsu_twn/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d397670017d94f648f4942d3f35b2f10:bd3353307516a1865bf83d6b1ac60368
@@ -1318,7 +1346,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000017/1024.m3u8
 https://atemeshield1-voe.sysln.id/live/eds/ShenzenTV/mpd/ShenzenTV.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/ShenzenTV/mpd/ShenzenTV.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/shenzen/manifest.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/shenzhen/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/shenzhen/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f123a83acae4361b3c2d5d8d918ff1a:7031880a4c0c7e29014e32554b8b422d
@@ -1368,11 +1396,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/RaiItalia/mpd/RaiItalia.mpd
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
 https://gooo.blog/opix/genx.m3u8?id=phoenixhongkong&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
+https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/international/phoenixtv.jpg" group-title="WORLD TV", PHOENIX CHINESE
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
 https://gooo.blog/opix/genx.m3u8?id=phoenixchinese&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
+https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/international/guandongtv.jpg" group-title="WORLD TV", GUANGDONG TV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
@@ -1394,7 +1424,7 @@ https://gooo.blog/opix/genx.m3u8?id=cetv1&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1N
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="CNNInternational.id" tvg-name="CNN International" tvg-logo="https://mimipipi22.github.io/logo/news/cnn.jpg" group-title="NEWS",CNN INT
 https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mpd/CNNIntHD.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Cnn/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Cnn/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6b63be641d34965833cb959113d612e:68dc81f8440af4ea3a162f9e3778d089
@@ -1411,7 +1441,9 @@ https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mpd/BBCWorldNewsHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/BBCWorldNewsHD/mpd/BBCWorldNewsHD.mpd
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000026/1024.m3u8
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Bbcnews/playlist.m3u8
+http://203.77.246.58:4500/udp/239.1.5.20:5000
+http://203.77.246.58:4500/udp/239.1.2.152:5000
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Bbcnews/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be6910ec53584120aa213203e8e2bd25:43239ebdca1b277d92221628db79c791
@@ -1422,7 +1454,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DwEnglishHD/mpd/DwEnglishHD.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/dwtv/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/DWTV/manifest.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000158/1024.m3u8
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Dw/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Dw/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b64c1b610274982a96842346bea89bc:f4d88e26d012f1e8f166174da0b53b68
@@ -1432,7 +1464,8 @@ https://atemeshield1-voe.sysln.id/live/eds/France24/mpd/France24.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/France24/mpd/France24.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/FRANCE_24/manifest.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000025/1024.m3u8
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/France24/playlist.m3u8
+http://203.77.246.58:4500/udp/239.1.1.230:5000
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/France24/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c325414b6254a3ba4bcb2a31d4b1318:ae6c5d2b86727b478da73ffd0795c417
@@ -1452,7 +1485,7 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000074/1024.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/aljazeera/manifest.mpd
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Aljazeera/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Aljazeera/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8afcd53a12df4443ba4fba722a1771c8:b431e78b8bd1bcbbab3d06e22ac67afb
@@ -1461,6 +1494,7 @@ http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Aljazeera/pla
 https://atemecdnbalancer-voe.sysln.id/live/eds/AlJzrArab/mpd/AlJzrArab.mpd
 https://live-hls-web-aja-fa.getaj.net/AJA/index.m3u8
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+http://203.77.246.58:4500/udp/239.1.2.72:5000
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=023eb9bda4064967b74730834f5e022e:5af44730eaf2754f62199d7b86053709
@@ -1490,7 +1524,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CNAHD/mpd/CNAHD.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/CHANNEL_NEWS_ASIA/manifest.mpd
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000030/1024.m3u8
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/cna/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/cna/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22dcc9a719a3411ca53b520236ded916:27425784e415cb5de6c857de6222b01b
@@ -1499,7 +1533,9 @@ http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/cna/playlist.
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/CGTN/mpd/CGTN.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000039/1024.m3u8
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/CGTN/playlist.m3u8
+http://203.77.246.58:4500/udp/239.1.2.38:5000
+http://203.77.246.58:4500/udp/239.1.1.46:5000
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/CGTN/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
@@ -1562,6 +1598,7 @@ https://d1ebgtxjo246w3.cloudfront.net/out/v1/9757e131659a4ab8ba08d448c4a3779e/in
 https://fta3-cdn-flr.visionplus.id/out/v1/9757e131659a4ab8ba08d448c4a3779e/index.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000035/1024.m3u8
+http://203.77.246.58:4500/udp/239.1.2.6:5000
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6823c964c02441ddb7a86545f43105b9:239a8749f4ed765966b163751b1619c3
@@ -1575,6 +1612,8 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000070/1024.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="DiscoveryChannel.id" tvg-name="Discovery Channel HD" tvg-logo="https://mimipipi22.github.io/logo/knowledge/discovery.jpg" group-title="KNOWLEDGE",DISCOVERY CHANNEL
 https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
+http://203.77.246.58:4500/udp/239.1.5.26:5000
+http://203.77.246.58:4500/udp/239.1.2.224:5000
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
@@ -1605,7 +1644,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000161/1024.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="History.id" tvg-name="History" tvg-logo="https://mimipipi22.github.io/logo/knowledge/history.jpg" group-title="KNOWLEDGE",HISTORY
 https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/History/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/History/playlist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000027/1024.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1615,6 +1654,8 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000027/1024.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest_w816003161_qRFZS.mpd?encp=&uid=&expp=
 https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+http://203.77.246.58:4500/udp/239.1.2.226:5000
+http://203.77.246.58:4500/udp/239.1.5.28:5000
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c4190749d6f4b51bde2df71715e843b:9dfc9803c0fdbb1cd6df2188a6f29064
@@ -1664,8 +1705,8 @@ https://fta3-cdn-flr.visionplus.id/out/v1/9041826689ae4f9c9619576d411fa989/index
 https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/KidsTV/playlist.m3u8
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Cbeebies/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/KidsTV/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Cbeebies/playlist.m3u8
 https://fl31.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1674,6 +1715,7 @@ https://fl31.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Cartoonito.id" tvg-name="Cartoonito" tvg-logo="https://mimipipi22.github.io/logo/kids/cartoonito.jpg" group-title="KIDS",CARTOONITO
 https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
+http://203.77.246.58:4500/udp/239.1.2.158:5000
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f08c30b7ee114399b72e77b0c099244b:a33d496875d04510a9b3116ba51ae65d
@@ -1688,7 +1730,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.id" tvg-name="Nickelodeon" tvg-logo="https://mimipipi22.github.io/logo/kids/nick.jpg" group-title="KIDS",NICK
 https://atemecdnbalancer-voe.sysln.id/live/eds/Nickelodeon/mpd/Nickelodeon.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Nickelodeon/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Nickelodeon/playlist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000060/1024.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1696,26 +1738,23 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000060/1024.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="NickJr.id" tvg-name="Nick Jr." tvg-logo="https://mimipipi22.github.io/logo/kids/nickjr.jpg" group-title="KIDS",NICK JR
 https://atemecdnbalancer-voe.sysln.id/live/eds/NickJr/mpd/NickJr.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Nickjr/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Nickjr/playlist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000118/1024.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/kids/cartoontvpremium.jpg" group-title="KIDS",CARTOON TV PREMIUM
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/kids/cartoontv.jpg" group-title="KIDS",CARTOON TV
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/kids/cartoontvclassic.jpg" group-title="KIDS",CARTOON TV CLASSICS
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd
@@ -1762,7 +1801,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest_w1677944154_qR
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="Dunia Anak" tvg-name="Dunia Anak" tvg-logo="https://mimipipi22.github.io/logo/kids/duniaanak.jpg" group-title="KIDS",DUNIA ANAK
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
@@ -1783,7 +1821,7 @@ https://gooo.blog/opix/genx.m3u8?id=vtv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="Horee.id" tvg-name="Horee" tvg-logo="https://mimipipi22.github.io/logo/kids/horee.jpg" group-title="KIDS",HOREE
 https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Babytv/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Babytv/playlist.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/hiphiphoree.jpg" group-title="KIDS",HIP HIP HOREE!
@@ -1865,7 +1903,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000129/1024.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="MTV90s.id" tvg-name="MTV 90s" tvg-logo="https://mimipipi22.github.io/logo/music/mtv90.jpg" group-title="MUSIC",MTV 90s
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/MusicTV/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/MusicTV/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
@@ -1876,7 +1914,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/MTV_LIVE/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="Musik Indonesia.id" tvg-name="Musik Indonesia.id" tvg-logo="https://mimipipi22.github.io/logo/music/musikindonesia.jpg" group-title="MUSIC",MUSIK INDONESIA
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
@@ -1902,16 +1939,21 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
 
 #EXTINF:-1 tvg-id="NOW 70s" tvg-name="NOW 70s" tvg-logo="https://images.pluto.tv/channels/64c37e710e086a0009e824ab/colorLogoPNG.png" group-title="MUSIC",NOW 70s
 https://jmp2.uk/plu-64c37e710e086a0009e824ab.m3u8
+https://amg01076-amg01076c1-mytvsuper-apac-7840.playouts.now.amagi.tv/playlist/amg01076-lightning-now70s-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NOW 80s" tvg-name="NOW 80s" tvg-logo="https://mimipipi22.github.io/logo/music/now80.jpg" group-title="MUSIC",NOW 80s
 https://jmp2.uk/plu-6490254fd2c47c00083a5743.m3u8
+https://amg01076-amg01076c2-mytvsuper-apac-7839.playouts.now.amagi.tv/playlist/amg01076-lightning-now80s-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NOW 90s" tvg-name="NOW 90s" tvg-logo="https://images.pluto.tv/channels/6490254fd2c47c00083a5743/colorLogoPNG.png" group-title="MUSIC",NOW 90s
 https://jmp2.uk/plu-660c209e19ca71000846cf38.m3u8
+https://amg01076-amg01076c19-mytvsuper-apac-7915.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
+
 
 #EXTINF:-1 tvg-id="NOW ROCKS" tvg-name="NOW ROCKS" tvg-logo="https://images.pluto.tv/channels/6568a78d635c3c0008765f41/colorLogoPNG.png" group-title="MUSIC",NOW ROCK
+https://amg01076-amg01076c3-mytvsuper-apac-7835.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
 https://jmp2.uk/plu-6568a78d635c3c0008765f41.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
@@ -2014,14 +2056,12 @@ https://cdn10jtedge.indihometv.com/atm/DASH/rodjatv/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="pijar.id" tvg-name="pijar" tvg-logo="https://mimipipi22.github.io/logo/religion/pijartv.jpg" group-title="RELIGION",PIJAR TV
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685730a4243017321f355172d0c/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="Khazanah.id" tvg-name="Khazanah" tvg-logo="https://mimipipi22.github.io/logo/religion/khazanah.jpg" group-title="RELIGION",KHAZANAH
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
@@ -2104,13 +2144,17 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000003/1024.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="Asian Food Network.id" tvg-name="Asian Food Network.id" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/afn.jpg" group-title="LIFESTYLE",AFN
 https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
+http://203.77.246.58:4500/udp/239.1.5.24:5000
+http://203.77.246.58:4500/udp/239.1.2.228:5000
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="HGTV.id" tvg-name="HGTV" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/hgtv.jpg" group-title="LIFESTYLE",HGTV
 https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/HGTV/playlist.m3u8
+http://203.77.246.58:4500/udp/239.1.5.12:5000
+http://203.77.246.58:4500/udp/239.1.2.238:5000
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/HGTV/playlist.m3u8
 https://i.mjh.nz/.r/discovery-hgtv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2124,11 +2168,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.m
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="TLC.id" tvg-name="TLC.id" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/tlc.jpg" group-title="LIFESTYLE",TLC
 https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
+http://203.77.246.58:4500/udp/239.1.5.22:5000
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/bbclifestyle.jpg" group-title="LIFESTYLE",BBC LIFESTYLE
 #https://tv.ddns.vn/tv/bbclifestyle/index.m3u8
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/bbclifestyle_twn/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/bbclifestyle_twn/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16ce4fb658cf41678c72cca871770da3:95509b2ad660b196310e93a0388a8a6b
@@ -2136,7 +2181,7 @@ http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/bbclifestyle_
 #EXTINF:-1 tvg-id="FashionTV.id" tvg-name="FashionTV.id" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/fashiontv.jpg" group-title="LIFESTYLE",FASHION TV
 https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mpd/FashionTV.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/FASHION_TV/manifest.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Lifestyle/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Lifestyle/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Kaloopy TV" tvg-name="Kaloopy TV" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/kaloopy.jpg" group-title="LIFESTYLE",KALOOPY TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
@@ -2172,7 +2217,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h202/index.m3u8?app_type=web&userid=l
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="Eat N Go" tvg-name="Eat N Go" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/eatngo.jpg" group-title="LIFESTYLE",EAT N GO
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd
@@ -2582,7 +2626,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yg0YU4hFuuLLT0oWgDbxdA", "kid":"uAkMg2HMXMXBqsDsJxDeEA" } ], "type":"temporary" }
 https://damp-mouse-75ea.pejan97800.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
-https://dl.dropboxusercontent.com/scl/fi/q17f8p1vmpjub18n35v20/showcase.m3u8?rlkey=5jh80h4jrxob7jf3z1l3jwww1
+https://damp-mouse-75ea.pejan97800.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 
 #EXTINF:-1 tvg-id="discoveryfamily.mv" tvg-name="Discovery Family Channel" tvg-logo="https://8upload.com/image/67e208966b999/dfchilay.png" group-title="ENTERTAINMENT",Discovery Family Channel
 https://maldivesn.net/hilaytv/discoveryfamily
@@ -2990,55 +3034,57 @@ https://live-atv-cdn.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="SPORTS",ASTRO ARENA
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Arena/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=Arena
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="SPORTS",ASTRO ARENA 2
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Arena2/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=Arena2
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="SPORTS",BOLA ARENA 1
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Bolaarena1/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=Bolaarena1
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="SPORTS",BOLA ARENA 2
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Bolaarena2/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=Bolaarena2
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="SPORTS",ASTRO PREMIER LEAGUE
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Assp1/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=go_assp1
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="SPORTS",ASTRO PREMIER LEAGUE 2
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_assp2/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=go_assp2
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="SPORTS",ASTRO GRANDSTAND
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Assp3/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=go_assp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="SPORTS",ASTRO FOOTBALL
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Assp4/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=go_assp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",ASTRO SPORTSPLUS
+http://51.89.166.17:3002/index.php?id=go_sportsplus
 #EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/sports/nbatv.jpg" group-title="SPORTS",NBA TV
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/nbatv/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=Nba
+http://51.89.166.17:3002/index.php?id=nbatv
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="SPORTS",ASTRO CRICKET
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Acricket/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=Acricket
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Acricket/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png" group-title="SPORTS",ASTRO GOLF
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Agolf/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",SUKAN
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Rtmsport/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=Agolf
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/cctv5.png" group-title="SPORTS",CCTV5
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/cctv5/playlist.m3u8
+http://api.kkitv.itv888.cn:8080/hls/7vx0ia55les/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/cctv5%2B.png" group-title="SPORTS",CCTV5+
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/cctv5plus/playlist.m3u8
+http://api.kkitv.itv888.cn:8080/hls/xsb4znrv3c/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png" group-title="SPORTS",ELTA SPORT 1
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/eltasport1_twn/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=eltasport1_twn
 #EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d2b9e073bcef1bdd395bfd9da7c0d44e.png" group-title="SPORTS",ELTA SPORT 2
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/eltasport2_twn/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=eltasport2_twn
 #EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/110_b229b1679884f5fc34980fbbe48d7cc9.png" group-title="SPORTS",ELTA SPORT 3
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/eltasport3_twn/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=eltasport3_twn
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/sky-sports-f1-uk.png" group-title="SPORTS",SKY SPORTS F1
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/tiankongf1/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=tiankongf1
 #EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/sky-sports-cricket-uk.png" group-title="SPORTS",SKY SPORTS CRICKET
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/tiankongcricket/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=tiankongcricket
 #EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/sky-sports-premier-league-uk.png" group-title="SPORTS",SKY SPORTS EPL
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/tiankongepl/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=tiankongepl
 #EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/sky-sports-golf-uk.png" group-title="SPORTS",SKY SPORTS GOLF
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/tiankonggolf/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/tiankonggolf/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/sky-sports-main-event-uk.png" group-title="SPORTS",SKY SPORTS MAIN
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/tiankongmain/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=tiankongmain
 #EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/sky-sports-racing-uk.png" group-title="SPORTS",SKY SPORTS RACING
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/tiankongracing/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=tiankongracing
 #EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/sky-sports-mix-uk.png" group-title="SPORTS",SKY SPORTS MIX
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/tiankongmix/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=tiankongmix
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
@@ -3066,13 +3112,13 @@ http://hardcoremedia.xyz:80/fadkjokz/4950078150/245142
 http://hardcoremedia.xyz:80/fadkjokz/4950078150/245143
 
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="GB : TNT SPORTS 01" tvg-logo="http://145.239.7.84/logos/TNTSports1_Logo_White_RGB_Logo.png" group-title="WORLD SPORTS",GB : TNT SPORTS 01
-http://hardcoremedia.xyz:80/fadkjokz/4950078150/258595
+http://51.89.166.17:3002/index.php?id=6fac0aaead
 #EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="GB : TNT SPORTS 02" tvg-logo="http://145.239.7.84/logos/TNTSports2_Logo_White_RGB_Logo.png" group-title="WORLD SPORTS",GB : TNT SPORTS 02
-http://hardcoremedia.xyz:80/fadkjokz/4950078150/258600
+http://51.89.166.17:3002/index.php?id=d9a76a79cc
 #EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="GB : TNT SPORTS 03" tvg-logo="http://145.239.7.84/logos/TNTSports3_Logo_White_RGB_Logo.png" group-title="WORLD SPORTS",GB : TNT SPORTS 03
-http://hardcoremedia.xyz:80/fadkjokz/4950078150/258605
+http://51.89.166.17:3002/index.php?id=5fea4d73db
 #EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="GB : TNT SPORTS 04" tvg-logo="http://145.239.7.84/logos/TNTSports4_Logo_White_RGB_Logo.png" group-title="WORLD SPORTS",GB : TNT SPORTS 04
-http://hardcoremedia.xyz:80/fadkjokz/4950078150/258610
+http://51.89.166.17:3002/index.php?id=tntsport4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-1-rs.png?raw=true" group-title="WORLD SPORTS",ARENA SPORTS 1
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-sport-1.m3u8?raw=true
@@ -3252,6 +3298,7 @@ http://hardcoremedia.xyz:80/fadkjokz/4950078150/10121
 http://hardcoremedia.xyz:80/fadkjokz/4950078150/9995
 
 #EXTINF:-1 tvg-id="Dubaitv.ae" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/dubai-tv-ae.png" group-title="WORLD TV",Dubai TV
+http://203.77.246.58:4500/udp/239.1.1.130:5000
 https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
@@ -3333,7 +3380,12 @@ https://ac-009.live.p7s1video.net/4cb9b4be/t_009/3sat-de-hd/cenc-default.mpd
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
+#EXTINF:-1 tvg-logo="" group-title="WORLD TV",CCTV+
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="WORLD TV",PHOENIX INFO
+https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
 
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [NEWS] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
@@ -3487,7 +3539,7 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 https://maldivesn.net/hilaytv/toongoggles
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/Discovery Kids Tamil.png" group-title="KIDS",DISCOVERY KIDS
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/discoverykidtamil_raj/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/discoverykidtamil_raj/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3707,6 +3759,10 @@ https://jmp2.uk/plu-5d93b635b43dd1a399b39eee.m3u8
 https://jmp2.uk/stvp-USBD3000145P
 https://jmp2.uk/plu-61d4b38226b8a50007fe03a6.m3u8
 
+#EXTINF:-1 tvg-id="magic.bg" tvg-logo="" group-title="MUSIC" ,Magic 🇧🇬
+http://185.18.56.26:8888/magic/index.m3u8
+http://84.54.128.52:9090/play/a00c/index.m3u8
+
 #EXTINF:-1 group-title="MUSIC" tvg-id="StingrayClassicRock.ca" tvg-logo="https://i.imgur.com/FBgu8yB.png" ,Stingray Classic Rock
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-id="StingrayClassica.ca" tvg-logo="https://i.imgur.com/nh1k5RC.png" ,Stingray Classica
@@ -3808,45 +3864,55 @@ https://maldivesn.net/hilaytv/myzen4k
 //========================================================================
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="MALAYSIA", Citra
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Citra/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Citra/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="MALAYSIA",Aura
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Aura/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Aura/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png" group-title="MALAYSIA",Rania
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Rania/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Rania/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="MALAYSIA",Oasis
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Oasis/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Oasis/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="MALAYSIA",Ceria
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Ceria/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="MALAYSIA",Ria
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Ria/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Ria/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MALAYSIA",TV3
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/TV3/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/TV3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="MALAYSIA",Prima
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Prima/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Prima/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Sensasi_%28Dec_2024%29.png" group-title="MALAYSIA",Sensasi
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Sensasi/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Sensasi/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" group-title="MALAYSIA",AEC
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/AEC/playlist.m3u8
+http://smt.1678520.xyz/smt3.2.1.php?id=AEC
+http://php.jdshipin.com/smt.php?id=AEC
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png" group-title="MALAYSIA",AOD
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Aodhd/playlist.m3u8
+http://smt.1678520.xyz/smt3.2.1.php?id=Aodhd
+http://php.jdshipin.com/smt.php?id=Aodhd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/162_144.png" group-title="MALAYSIA",Hua Hee
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Huahee/playlist.m3u8
+http://smt.1678520.xyz/smt3.2.1.php?id=Huahee
+http://php.jdshipin.com/smt.php?id=Huahee
+http://51.89.166.17:3002/index.php?id=Huahee
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-title="MALAYSIA",Quanjia
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Quanjia/playlist.m3u8
+http://smt.1678520.xyz/smt3.2.1.php?id=Quanjia
+http://php.jdshipin.com/smt.php?id=Quanjia
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="MALAYSIA",TVB Jade
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Tvbjade/playlist.m3u8
+http://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade
+http://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
+http://php.jdshipin.com/smt.php?id=Tvbjade
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/384_144.png" group-title="MALAYSIA",TVB Asia
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Tvbasia/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=Tvbasia
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/427_144.png" group-title="MALAYSIA",TVB Entertainment
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Tvbentertainment/playlist.m3u8
+http://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png" group-title="MALAYSIA",TVBClassic
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Tvbclassic/playlist.m3u8
+http://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
+http://php.jdshipin.com/smt.php?id=Tvbclassic
+http://51.89.166.17:3002/index.php?id=Tvbclassic
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png" group-title="MALAYSIA",Xing He
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Xinhe/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Xinhe/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="MALAYSIA",Qiyi
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Qiyi/playlist.m3u8
+http://smt.1678520.xyz/smt3.2.1.php?id=Qiyi
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Qiyi/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/454_144.png" group-title="MALAYSIA",Showcase
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Showcase/playlist.m3u8
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Showcase/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="TV1" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="MALAYSIA",TV 1
@@ -3973,25 +4039,25 @@ https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGN
 🔸🔸 Collected by @mimipipi22 menampilkan playlist >>> JAPAN
 //========================================================================
 
+#EXTM3U url-tvg="https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0
 #EXTINF:-1 group-title="JAPAN" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
-https://mt01.utako.moe/NHK_G/index.m3u8
+https://us1001.utako.moe/NHK_G/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
-https://mt01.utako.moe/NHK_E/index.m3u8
+https://us1001.utako.moe/NHK_E/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV
-https://mt01.utako.moe/Nippon_TV/index.m3u8
+https://us1001.utako.moe/Nippon_TV/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
-https://mt01.utako.moe/TBS/index.m3u8
+https://us1001.utako.moe/TBS/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV
-https://mt01.utako.moe/Fuji_TV/index.m3u8
+https://us1001.utako.moe/Fuji_TV/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi
-https://mt01.utako.moe/TV_Asahi/index.m3u8
+https://us1001.utako.moe/TV_Asahi/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo
-https://mt01.utako.moe/TV_Tokyo/index.m3u8
+https://us1001.utako.moe/TV_Tokyo/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1
-https://mt01.utako.moe/Tokyo_MX1/index.m3u8
+https://us1001.utako.moe/Tokyo_MX1/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2
-https://mt01.utako.moe/Tokyo_MX2/index.m3u8
-
+https://us1001.utako.moe/Tokyo_MX2/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G HD (Primehome)
 https://proxyv2.utako.moe/ph.php?&isp=1&id=hdgd01
 #EXTINF:-1 group-title="JAPAN" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E HD (Primehome)
@@ -4024,22 +4090,20 @@ https://proxyv2.utako.moe/ph.php?&isp=1&id=gd06
 https://proxyv2.utako.moe/ph.php?&isp=1&id=gd07
 #EXTINF:-1 group-title="JAPAN" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1 (Primehome)
 https://proxyv2.utako.moe/ph.php?&isp=1&id=gd08
-
 #EXTINF:-1 group-title="JAPAN" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",MBS
-https://mt01.utako.moe/mbs/index.m3u8
+https://us1001.utako.moe/mbs/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABC
-https://mt01.utako.moe/abc/index.m3u8
+https://us1001.utako.moe/abc/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="tv_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/178px-Tv_osaka_logo.svg.png",TV Osaka
-https://mt01.utako.moe/tvo/index.m3u8
+https://us1001.utako.moe/tvo/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="kansai_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png",Kansai TV
-https://mt01.utako.moe/kansaitv/index.m3u8
+https://us1001.utako.moe/kansaitv/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="yomiuri_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png",ytv
-https://mt01.utako.moe/ytv/index.m3u8
+https://us1001.utako.moe/ytv/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="kbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS
-https://mt01.utako.moe/kbs/index.m3u8
+https://us1001.utako.moe/kbs/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",SUN
-https://mt01.utako.moe/suntv/index.m3u8
-
+https://us1001.utako.moe/suntv/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="nhk_g_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G Osaka (Primehome)
 https://proxyv2.utako.moe/ph.php?&isp=1&id=gx06
 #EXTINF:-1 group-title="JAPAN" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",MBS (Primehome)
@@ -4054,48 +4118,46 @@ https://proxyv2.utako.moe/ph.php?&isp=1&id=gx04
 https://proxyv2.utako.moe/ph.php?&isp=1&id=gx05
 #EXTINF:-1 group-title="JAPAN" tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",SUN (Primehome)
 https://proxyv2.utako.moe/ph.php?&isp=1&id=gx07
-
 #EXTINF:-1 group-title="JAPAN" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
-https://mt01.utako.moe/NHK_BS/index.m3u8
+https://us1001.utako.moe/NHK_BS/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png",BS NTV
-https://mt01.utako.moe/bsntv/index.m3u8
+https://us1001.utako.moe/bsntv/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="bs_asahi" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg",BS Asahi
-https://mt01.utako.moe/bsasahi/index.m3u8
+https://us1001.utako.moe/bsasahi/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="bs_tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png",BS TBS
-https://mt01.utako.moe/bstbs/index.m3u8
+https://us1001.utako.moe/bstbs/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="bs_tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BS TV Tokyo
-https://mt01.utako.moe/bstvtokyo/index.m3u8
+https://us1001.utako.moe/bstvtokyo/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="bs_fuji" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png",BS Fuji
-https://mt01.utako.moe/bsfuji/index.m3u8
+https://us1001.utako.moe/bsfuji/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11
-https://mt01.utako.moe/BS11/index.m3u8
+https://us1001.utako.moe/BS11/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="nhk_bsp_4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K
-https://mt01.utako.moe/bsp4k/index.m3u8
+https://us1001.utako.moe/bsp4k/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="wowow_prime" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",WOWOW Prime
-https://mt01.utako.moe/wprime/index.m3u8
+https://us1001.utako.moe/wprime/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="wowow_cinema" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png",WOWOW Cinema
-https://mt01.utako.moe/wcinema/index.m3u8
+https://us1001.utako.moe/wcinema/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="wowow_live" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_live.png",WOWOW Live
-https://mt01.utako.moe/wlive/index.m3u8
+https://us1001.utako.moe/wlive/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="bs10_star_channel" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png",BS 10 Star Channel
-https://mt01.utako.moe/bs10_star/index.m3u8
+https://us1001.utako.moe/bs10_star/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="js1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1
-https://mt01.utako.moe/js1/index.m3u8
+https://us1001.utako.moe/js1/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="js2" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2
-https://mt01.utako.moe/js2/index.m3u8
+https://us1001.utako.moe/js2/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="js3" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",JSport 3
-https://mt01.utako.moe/js3/index.m3u8
+https://us1001.utako.moe/js3/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="js4" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4
-https://mt01.utako.moe/js4/index.m3u8
+https://us1001.utako.moe/js4/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="green_channel" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp.svg",Green Channel
-https://mt01.utako.moe/green/index.m3u8
+https://us1001.utako.moe/green/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax
 https://ca01.utako.moe/Animax/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="nihon_eiga" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",Nihon Eiga Senmon
 https://ca01.utako.moe/nihoneiga/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="sky_a" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg",Sky A
 https://ca01.utako.moe/skya/index.m3u8
-
 #EXTINF:-1 group-title="JAPAN" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS (Primehome)
 https://proxyv2.utako.moe/ph.php?&isp=1&id=bs11
 #EXTINF:-1 group-title="JAPAN" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png",BS NTV (Primehome)
@@ -4137,14 +4199,13 @@ https://proxyv2.utako.moe/ph.php?&isp=1&id=cs01
 #EXTINF:-1 group-title="JAPAN" tvg-id="fishing_vision" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsuri_vision.png", Fishing Vision (Primehome)
 https://proxyv2.utako.moe/ph.php?&isp=1&id=bs25
 #EXTINF:-1 group-title="JAPAN" tvg-id="disney_channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png", Disney Channel (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs24 
+https://proxyv2.utako.moe/ph.php?&isp=1&id=bs24
 #EXTINF:-1 group-title="JAPAN" tvg-id="jcom_bs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/JCOM_BS_2.png/revision/latest/scale-to-width-down/1000?cb=20250825145119", JCOM BS (Primehome)
 https://proxyv2.utako.moe/ph.php?&isp=2&id=bs31
-
 #EXTINF:-1 group-title="JAPAN" tvg-id="gaora" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gaora-sports-jp.svg",Gaora Sports
-https://mt01.utako.moe/gaora/index.m3u8
+https://us1001.utako.moe/gaora/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="at_x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X
-https://mt01.utako.moe/AT-X/index.m3u8
+https://us1001.utako.moe/AT-X/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="space_shower_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",Space Shower TV
 https://ca01.utako.moe/spaceshower/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="mtv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",MTV
@@ -4195,7 +4256,10 @@ https://ca01.utako.moe/homedrama/index.m3u8
 https://ca01.utako.moe/gingach/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="tabi_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel.png",Tabi Channel
 https://ca01.utako.moe/tabi/index.m3u8
-
+#EXTINF:-1 group-title="JAPAN" tvg-id="pigoo" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo (NSFW)
+https://ca01.utako.moe/pigoo/index.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW)
+https://ca01.utako.moe/v_paradise/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="jidaigeki" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jidaigeki.png", Jidaigeki Senmon (Primehome)
 https://proxyv2.utako.moe/ph.php?&isp=1&id=cs04
 #EXTINF:-1 group-title="JAPAN" tvg-id="toei_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png", Toei Channel (Primehome)
@@ -4258,7 +4322,20 @@ https://proxyv2.utako.moe/ph.php?&isp=1&id=cs15
 https://proxyv2.utako.moe/ph.php?&isp=1&id=cs11
 
 
+http://203.77.246.58:4500/udp/239.1.1.44:5000 BRTV
+http://203.77.246.58:4500/udp/239.1.2.76:5000 Cartoon
+http://203.77.246.58:4500/udp/239.1.2.34:5000 cgtn news
+http://203.77.246.58:4500/udp/239.1.2.208:5000 Qatar tv
+http://203.77.246.58:4500/udp/239.1.1.112:5000 
+http://203.77.246.58:4500/udp/239.1.1.142:5000 
+http://203.77.246.58:4500/udp/239.1.2.184:5000
+http://203.77.246.58:4500/udp/239.1.2.74:5000
+http://203.77.246.58:4500/udp/239.1.2.194:5000
+http://203.77.246.58:4500/udp/239.1.1.144:5000 V Channel
 
+
+#EXTINF:-1 group-title="MOVIES",Star Movies Gold
+https://moviethls.wns.live/hls/stream.m3u8
 
 
 
